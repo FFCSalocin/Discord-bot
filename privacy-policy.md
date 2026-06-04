@@ -1,24 +1,23 @@
 Privacy-policy for FFCBeta-Discord-Bot
 
-These data is saved:
-Discord user ID
-Discord server ID
-Birthdays (day and month)
-Absences
-Channel- and role-IDs required for bot-functions
+1: These data is saved:
+•Discord user ID
+•Discord server ID
+•Birthdays (day and month)
+•Absences
+•Channel- and role-IDs required for bot-functions
 
-The data is used solely to provide the bot's features and functionality
+2: The data is used solely to provide the bot's features and functionality
 
-The data is not sold, shared, or provided to third parties, except where required by law.
+3: The data is not sold, shared, or provided to third parties, except where required by law.
 
-Users may request deletion of their own stored data.
+4: Users may request deletion of their own stored data.
+  Server administrators may remove stored data related to their server.
 
-Server administrators may remove stored data related to their server.
+5: The bot owner may delete stored data for maintenance, moderation, or technical reasons.
 
-The bot owner may delete stored data for maintenance, moderation, or technical reasons.
+6: Stored data remains in the system until it is deleted by the user, a server administrator, or the bot owner.
 
-Stored data remains in the system until it is deleted by the user, a server administrator, or the bot owner.
+7: The bot is not affiliated with Discord Inc
 
-The bot is not affiliated with Discord Inc
-
-Discord contact: Salocin2010
+DISCORD BOT OWNER CONTACT: Salocin2010

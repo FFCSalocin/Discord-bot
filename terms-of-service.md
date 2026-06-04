@@ -33,5 +33,5 @@ No liability is accepted for data loss, malfunctions or failures resulting from 
 5: CHANGES
 
 These terms of service can be changed at any time. 
-
-Discord contact: Salocin2010
+ 
+DISCORD BOT OWNER CONTACT: Salocin2010
